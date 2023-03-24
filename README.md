@@ -21,3 +21,7 @@ The main page has a picture and a description about the bookstore and there is a
 By selecting book registration in the menu you can register a new book
 
 ![This is an image](AKXIX_MID_PROJECT(T_T)/photo/bookreg.png)
+
+##Available Books
+After you have registered a new book and clicked submit, the Available Books section will automatically open, and there you can see the book you just created
+![This is an image](AKXIX_MID_PROJECT(T_T)/photo/avilbook.png)
