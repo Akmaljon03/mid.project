@@ -16,3 +16,8 @@ I wrote this project, it was very difficult for me because I had to re-create th
 The main page has a picture and a description about the bookstore and there is a navbar you can choose anything from the menu to open another page
 
 ![This is an image](AKXIX_MID_PROJECT(T_T)/photo/home.png)
+
+## Book Register
+By selecting book registration in the menu you can register a new book
+
+![This is an image](AKXIX_MID_PROJECT(T_T)/photo/bookreg.png)
