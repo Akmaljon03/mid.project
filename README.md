@@ -8,3 +8,11 @@ I wrote this project, it was very difficult for me because I had to re-create th
 - Thymeleaf
 - Bootstrap
 - MySQL
+
+### Port
+  http://localhost:1234
+  
+## Home Page
+The main page has a picture and a description about the bookstore and there is a navbar you can choose anything from the menu to open another page
+
+![This is an image](/photo/home.png)
