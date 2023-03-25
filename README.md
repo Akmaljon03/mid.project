@@ -9,7 +9,24 @@ I wrote this project, it was very difficult for me because I had to re-create th
 - Maven
 - Thymeleaf
 - Bootstrap
+- Bootstrap 5
+- Hibernate MySQL
 - MySQL
+- CRUD
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+## Prerequisites
+
+* To run the application, you need to have the following installed on your machine:
+
+* Java 17 or later
+* Maven
+* MySQL or PostgreSQL database
+
+
 
 ### Port
   http://localhost:1234
@@ -55,4 +72,13 @@ List of borrowers on this page borrowers who have been added, you can see their 
 
 ![This is an image](AKXIX_MID_PROJECT(T_T)/photo/listofborr.png)
 
+## Update Borrower
 
+On the List of Borrowers page, you can click on the update button and you can change the borrower data that you have added
+
+![This is an image](AKXIX_MID_PROJECT(T_T)/photo/updateborr.png)
+
+
+
+## Author
+* Akmalzhon Nurmakhamadov - GitHub Akmaljon03
