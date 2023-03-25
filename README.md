@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-* To run the application, you need to have the following installed on your machine:
+To run the application, you need to have the following installed on your machine:
 
 * Java 17 or later
 * Maven
